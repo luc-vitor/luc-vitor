@@ -27,8 +27,8 @@ experiente.
 
  <div>
    <a href="https://github.com/luc-vitor">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luks1ndf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luks1ndf&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luc-vitor&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luc-vitor&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -71,8 +71,8 @@ experiente.
 <br>
 
 ## Portfolio:
-- [Linha do Tempo](https://github.com/luks1ndf/nlw-spacetime?tab=readme-ov-file)
-- [Projeto do GTA V](https://github.com/luks1ndf/projeto-gta)
+- [Linha do Tempo](https://github.com/luc-vitor/nlw-spacetime?tab=readme-ov-file)
+- [Projeto do GTA V](https://github.com/luc-vitor/projeto-gta)
 
 <br>
 
