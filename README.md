@@ -73,6 +73,7 @@ experiente.
 ## Portfolio:
 - [Linha do Tempo](https://github.com/luc-vitor/nlw-spacetime?tab=readme-ov-file)
 - [Projeto do GTA V](https://github.com/luc-vitor/projeto-gta)
+- [AudioBook Dom Casmurro](https://github.com/luc-vitor/audiobook-dom-casmurro)
 
 <br>
 
